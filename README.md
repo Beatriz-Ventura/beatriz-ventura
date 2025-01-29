@@ -5,8 +5,6 @@
 </div>
     💻 Beatriz Ventura | Front-End Developer
 
-![Banner](https://source.unsplash.com/1600x400/?technology,code)
-
 🚀 Sobre mim
 
 Olá! Sou **Beatriz Ventura**, uma apaixonada por desenvolvimento web front-end. Com 26 anos, transformo ideias em interfaces incríveis e responsivas. Meu foco é criar soluções otimizadas e acessíveis, proporcionando a melhor experiência para os usuários.
